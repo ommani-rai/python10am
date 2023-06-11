@@ -7,8 +7,8 @@ types:
 3. logical operator
 4. comparision operator
 5. membership operator
-6. bitwise operator
-7. identity operator
+6. identity operator
+7. bitwise operator
 
 '''
 # arithmetic operator
