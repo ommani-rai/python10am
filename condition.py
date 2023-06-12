@@ -4,7 +4,7 @@ types:
 2. if else
 3. elif (else if)
 
-condition
+condition:
 true value/condition: 1,"ram", True
 false/falsy value/condition: 0, False, ''/ ""
 
